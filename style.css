@@ -24,6 +24,7 @@ body{
 }
 .youtube{
 	color: red;
+	background-color: black
 }
 
 .first{
@@ -32,14 +33,21 @@ body{
 
 .Gogoanime{
 	color: darkgoldenrod;
+	background-color: black
 }
 
 .Crunchyroll{
 	color: orange;
+	background-color: black
 }
 .Netflix{
 	color: darkred;
+	background-color: black
 }
 .line{
 	color: green;
+}
+
+hr{
+	color: red;
 }
